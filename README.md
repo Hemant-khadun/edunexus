@@ -1,8 +1,11 @@
-Kids Learning Platform
+EduNexus - Kids Learning Platform
+
 Overview
+
 Kids Learning Platform is an educational web application designed to facilitate learning for children. The platform allows parents to register and manage their children’s accounts, teachers to upload educational content, and administrators to oversee the entire system.
 
 Features
+
 Parent Registration: Parents can create an account and add their children. Each child receives a unique account, and login details are sent via email.
 Teacher Registration: Teachers can register and upload content for various topics.
 Admin Control: Administrators have full control over the platform, including user management and content moderation.
@@ -18,7 +21,8 @@ PHP
 Composer
 Laravel
 MySQL
-Email service (e.g., SendGrid)
+Email service (Brevo)
+
 Installation
 Clone the repository:
 git clone https://github.com/Hemant-khadun/edunexus.git
