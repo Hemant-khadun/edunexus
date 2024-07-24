@@ -50,18 +50,47 @@ Homepage (White mode)
 Homepage (Dark mode)
 ![image](https://github.com/user-attachments/assets/ed97d683-b15e-4a2a-845d-5379e197871b)
 
-About us (White)
+About us (White Mode)
 ![image](https://github.com/user-attachments/assets/a9acf707-f41d-4c1a-a6ce-cc2b6b7773dc)
 
-Game (White)
+Game (White Mode)
 ![image](https://github.com/user-attachments/assets/8da9dcce-dd6c-48d6-8952-890ac0040a34)
 
-Login (white)
+Login (White Mode)
 ![image](https://github.com/user-attachments/assets/34227160-4f8d-4969-8244-5fc7073cdb2d)
 
-Register (white)
+Register (White Mode)
 ![image](https://github.com/user-attachments/assets/0ecbe7f1-3032-4bc4-bdf1-8ba591c96a25)
 
+Admin dashboard (White Mode)
+![image](https://github.com/user-attachments/assets/c6042386-e52b-4b5c-a120-e887cf5ed1f9)
+
+All courses dashboard (White Mode)
+![image](https://github.com/user-attachments/assets/cb251084-e8f0-4a48-b212-81319bff29f1)
+
+Users (White Mode)
+![image](https://github.com/user-attachments/assets/9c42d978-411b-4792-aa60-571d3b8ac008)
+
+Student Courses dashboard
+![image](https://github.com/user-attachments/assets/6cec2823-2b55-48cc-b749-9fe0bc994e6f)
+
+Student Single course
+![image](https://github.com/user-attachments/assets/cf1082ed-b88e-412c-999a-78458b9a4323)
+
+Student Program Page
+![image](https://github.com/user-attachments/assets/4c409ed0-61ae-4828-958f-51129f0336fb)
+
+Student Subject page
+![image](https://github.com/user-attachments/assets/d25688e0-f658-49f7-bc36-4b11d2b9ad92)
+
+Student Achivement page for all the completed courses :
+![image](https://github.com/user-attachments/assets/d9135c9d-ea2f-4b0e-884a-933c280af5da)
+
+Teacher (Dark Mode)
+![image](https://github.com/user-attachments/assets/8a447ad0-44d1-41fa-ba46-842ae7045c6f)
+
+Parent (Dark Mode)
+![image](https://github.com/user-attachments/assets/c5381bc2-dae3-48ac-ab6a-3e5a4fc2e311)
 
 Usage
 Parents: Register and add your children. Check your email for their login details.
