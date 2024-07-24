@@ -1,4 +1,4 @@
-EduNexus - Kids Learning Platform
+EduNexus - Kids Learning Platform ( Laravel 11 + Livewire 3)
 
 Overview
 
@@ -7,14 +7,18 @@ Kids Learning Platform is an educational web application designed to facilitate 
 Features
 
 Parent Registration: Parents can create an account and add their children. Each child receives a unique account, and login details are sent via email.
+
 Teacher Registration: Teachers can register and upload content for various topics.
+
 Admin Control: Administrators have full control over the platform, including user management and content moderation.
+
 Technologies Used
-Laravel: PHP framework for building web applications.
+
+Laravel 11: PHP framework for building web applications.
 Tailwind CSS: Utility-first CSS framework for styling.
-Livewire: Full-stack framework for Laravel that makes building dynamic interfaces simple.
+Livewire 3: Full-stack framework for Laravel that makes building dynamic interfaces simple.
 MySQL: Database management system.
-SendGrid: Email service for sending notifications.
+Brevo: Email service for sending notifications.
 Getting Started
 Prerequisites
 PHP
