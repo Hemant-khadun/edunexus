@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.ck-editor h1, .front-text-content h1 {
+    font-size: 1.17em;
+}
+
+.ck-editor h2, .front-text-content h2 {
+    font-size: 1.5em; 
+}
+
+.ck-editor h3, .front-text-content h3 {
+    font-size: 2em; 
+}
+
+.ck-editor a, .front-text-content a {
+    color:#3c91ec;
+}
+
+.ck-editor ul, .ck-editor ol, .front-text-content ul, .front-text-content ol {
+    padding-left: 10px;
+}
+
+.front-text-content table {
+    border-collapse: separate;
+    border-spacing: 2px; /* Adjust as needed */
+}
+
+/* Style table headers (th) */
+.front-text-content th {
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Style table cells (td) */
+.front-text-content td {
+    padding: 8px; /* Adjust cell padding */
+    text-align: left; /* Align text within cells */
+}
+
+/* Add borders to cells */
+.front-text-content td, .front-text-content th {
+    border: 1px solid #626262; /* Light gray border */
+}
+
+/* Set a fixed width for the entire table */
+.front-text-content table {
+    width: 100%; /* Adjust as needed */
+}

@@ -1,0 +1,1 @@
+<img class="dark:brightness-0 dark:invert h-auto w-40" src="{{url('/images/logo.webp')}}" alt="logo"/>
